@@ -7,7 +7,7 @@ This is a simple To-Do List application built using Python and Django. It allows
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Jaweria-B/to-do-list
    ```
 
 2. Navigate to the project directory:
